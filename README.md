@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Miguel Evangelista</h1>
-<h3 align="justify">I am a Junior Front End Developer currently based in Santo Domingo, Dominican Republic. I specialize in building web applications and user interfaces that are not only visually appealing but also easy to use and navigate. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks like React. I am passionate about creating responsive and accessible designs that work seamlessly across different devices and browsers.</h3>
+<p align="justify">I am a Junior Front End Developer currently based in Santo Domingo, Dominican Republic. I specialize in building web applications and user interfaces that are not only visually appealing but also easy to use and navigate. My expertise includes HTML, CSS, JavaScript, and various front-end frameworks like React. I am passionate about creating responsive and accessible designs that work seamlessly across different devices and browsers.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelaeb&label=Profile%20views&color=0e75b6&style=flat" alt="miguelaeb" /> </p>
 
