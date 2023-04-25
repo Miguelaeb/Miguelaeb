@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelaeb&label=Profile%20views&color=0e75b6&style=flat" alt="miguelaeb" /> </p>
 
-## Social media
+## Contact me
 
 - Linkedin - [Miguel Evangelista](https://www.linkedin.com/in/miguel-evangelista-8458b9150/)
 - Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
