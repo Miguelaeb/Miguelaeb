@@ -6,7 +6,7 @@
 
 <h3 align="left">LinkedIn</h3>
 <p align="left">
-(https://www.linkedin.com/in/miguel-evangelista-8458b9150/)
+[](https://www.linkedin.com/in/miguel-evangelista-8458b9150/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
