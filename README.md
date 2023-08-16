@@ -6,7 +6,7 @@
 
 ## Contact me
 
-- LinkedIn - [Miguel Evangelista](https://www.linkedin.com/in/miguel-evangelista-8458b9150/)
+- LinkedIn - [Miguel Evangelista](www.linkedin.com/in/miguelaer)
 - Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
 - Frontend Mentor - [@Miguelaeb](https://www.frontendmentor.io/profile/Miguelaeb)
 
