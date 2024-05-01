@@ -1,6 +1,6 @@
 <h1 align="left">Hiya! 👋</h1>
 
-<p align="justify">/As a Front End developer I specialize in creating web applications and user interfaces that are not only visually appealing but also easy to use and navigate. My experience includes HTML, CSS, JavaScript, frameworks such as Tailwind CSS, Bootstrap, and Material UI, and libraries like React JS. I am passionate about creating responsive and accessible designs that work seamlessly across different devices and browsers.</p>
+<p align="justify">As a Front End developer I specialize in creating web applications and user interfaces that are not only visually appealing but also easy to use and navigate. My experience includes HTML, CSS, JavaScript, frameworks such as Tailwind CSS, Bootstrap, and Material UI, and libraries like React JS. I am passionate about creating responsive and accessible designs that work seamlessly across different devices and browsers.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelaeb&label=Profile%20views&color=0e75b6&style=flat" alt="miguelaeb" /> </p>
 
