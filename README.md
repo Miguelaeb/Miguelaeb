@@ -5,11 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelaeb&label=Profile%20views&color=0e75b6&style=flat" alt="miguelaeb" /> </p>
 
 ## Contact me
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-- LinkedIn - [Miguel Evangelista](https://www.linkedin.com/in/miguelaer/)
-- Portfolio- [migueldev.com](https://www.migueldev.com/)
-- Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
-- Twitter - [@MiguelEvan56212](https://twitter.com/MiguelEvan56212)
+
+<a href="https://www.linkedin.com/in/miguelaer/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+
+<a href="https://www.migueldev.com/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio"  /></a>
+
+<a href="miguelbranagan30@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+
+<a href="https://instagram.com/miguel_aeb"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</a>
+
+<a href="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</a>
 
 <h3 align="left">Technologies.</h3>
 <div>
@@ -28,6 +36,12 @@
   <h4>Tools</h4>
   <img src="https://img.shields.io/badge/VS_Code-F24E1E?style=for-the-badge&logo=vscode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/4mugy252jw6uvtrw2xdq4605f">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4mugy252jw6uvtrw2xdq4605f&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
   
 <h3 align="left">Stats</h3> 
