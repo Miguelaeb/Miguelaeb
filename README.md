@@ -28,12 +28,6 @@
   <img src="https://img.shields.io/badge/VS_Code-F24E1E?style=for-the-badge&logo=vscode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/4mugy252jw6uvtrw2xdq4605f">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4mugy252jw6uvtrw2xdq4605f&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
   
 <h3 align="left">Stats</h3> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelaeb&show_icons=true&locale=en" alt="miguelaeb" /></p>
