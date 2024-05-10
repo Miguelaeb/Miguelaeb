@@ -6,7 +6,7 @@
 
 ## Contact me
 
-- LinkedIn - [Miguel Evangelista](www.linkedin.com/in/miguelaer)
+- LinkedIn - [Miguel Evangelista](https://www.linkedin.com/in/miguelaer/)
 - Portfolio- [migueldev.com](https://www.migueldev.com/)
 - Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
 - Twitter - [@MiguelEvan56212](https://twitter.com/MiguelEvan56212)
