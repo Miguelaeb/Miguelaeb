@@ -48,7 +48,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="30" alt="slack logo"  />
   <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
-
-###
-<img src="https://raw.githubusercontent.com/miguelaeb/miguelaeb/output/snake.svg" alt="Snake animation" />
-###
