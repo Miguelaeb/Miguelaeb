@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" alt="discord logo"  />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="30" alt="slack logo"  />
-  <img src="https://img.shields.io/badge/Notion-F24E1E?style=for-the-badge&logo=notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-F24E1E?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
   
