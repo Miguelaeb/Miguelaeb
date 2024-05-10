@@ -9,7 +9,7 @@
 - LinkedIn - [Miguel Evangelista](www.linkedin.com/in/miguelaer)
 - Portfolio- [migueldev.com](https://www.migueldev.com/)
 - Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
-- Frontend Mentor - [@Miguelaeb](https://www.frontendmentor.io/profile/Miguelaeb)
+- Twitter - [@MiguelEvan56212](https://twitter.com/MiguelEvan56212)
 
 <h3 align="left">Technologies.</h3>
 <div>
