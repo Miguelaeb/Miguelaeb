@@ -13,6 +13,7 @@
 <a href="https://instagram.com/miguel_aeb"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
+<h3 align="left">Stats</h3> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miguelaeb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelaeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -48,6 +49,3 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-  
-<h3 align="left">Stats</h3> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelaeb&show_icons=true&locale=en" alt="miguelaeb" /></p>
