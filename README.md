@@ -50,7 +50,5 @@
 </div>
 
 ###
-
 <img src="https://raw.githubusercontent.com/miguelaeb/miguelaeb/output/snake.svg" alt="Snake animation" />
-
 ###
