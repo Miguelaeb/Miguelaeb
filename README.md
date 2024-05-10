@@ -7,7 +7,7 @@
 ## Contact me
 
 - LinkedIn - [Miguel Evangelista](www.linkedin.com/in/miguelaer)
-- Portfolio- [Portfolio](https://www.migueldev.com/)
+- Portfolio- [migueldev.com](https://www.migueldev.com/)
 - Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
 - Frontend Mentor - [@Miguelaeb](https://www.frontendmentor.io/profile/Miguelaeb)
 
