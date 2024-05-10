@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelaeb&label=Profile%20views&color=0e75b6&style=flat" alt="miguelaeb" /> </p>
 
 ## Contact me
-
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 - LinkedIn - [Miguel Evangelista](https://www.linkedin.com/in/miguelaer/)
 - Portfolio- [migueldev.com](https://www.migueldev.com/)
 - Instagram - [@Miguel_aeb](https://instagram.com/miguel_aeb?igshid=YmMyMTA2M2Y=)
